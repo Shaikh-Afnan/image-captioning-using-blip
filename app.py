@@ -6,14 +6,6 @@ transformer model to generate natural language captions for input images.
 The web interface is built using Gradio for quick and interactive deployment.
 """
 
-"""
-AI Image Captioning Web Application
-
-This application uses a pre-trained BLIP (Bootstrapped Language Image Pretraining)
-transformer model to generate natural language captions for input images.
-The web interface is built using Gradio for quick and interactive deployment.
-"""
-
 import gradio as gr
 import numpy as np
 from PIL import Image
